@@ -1,0 +1,23 @@
+﻿# .NET SDK (local install)
+.dotnet/
+
+# OpenCode agent files
+.opencode/
+opencode.jsonc
+
+# agent console
+agent-console/
+
+# build output
+DesktopSprite/bin/
+DesktopSprite/obj/
+dist/
+dist-standalone/
+
+# build artifacts
+*.pdb
+
+# IDE
+.vs/
+*.user
+*.suo
